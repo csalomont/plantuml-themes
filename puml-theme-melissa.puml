@@ -48,8 +48,8 @@ skinparam useBetaStyle false
 !$PRIMARY_DARK = "#062C6A"
 !$PRIMARY_LIGHT = "#062C6A"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_DARK = "#FFD100"
-!$SECONDARY_LIGHT = "#FFD100"
+!$SECONDARY_DARK = "#a7a7a7"
+!$SECONDARY_LIGHT = "#e7e7e7"
 !$SECONDARY_TEXT = $WHITE
 !$INFO_DARK = "#259aca"
 !$INFO_LIGHT = "#3eb3e3"
@@ -89,7 +89,7 @@ skinparam useBetaStyle false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Verdana"
+skinparam defaultFontName       "Proxima Nova"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
