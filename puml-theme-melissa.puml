@@ -3,7 +3,7 @@
 '' https://github.com/plantuml/plantuml/blob/master/themes/puml-theme-sandstone.puml
 ''
 '' Author: Camilo Salomon
-'' Copyright (c) 2020 by Brett Schwarz
+'' Copyright (c) 2021
 
 !$THEME = "melissa"
 
@@ -30,8 +30,8 @@ skinparam useBetaStyle false
 !$WHITE = "#fff"
 !$GRAY = "#8e8c84"
 !$GRAYDARK = "#3e3f3a"
-!$PRIMARY = "#325d88"
-!$SECONDARY = "#8e8c84"
+!$PRIMARY = "#062C6A"
+!$SECONDARY = "#FFD100"
 !$SUCCESS = "#93c54b"
 !$INFO = "#29abe0"
 !$WARNING = "#f47c3c"
