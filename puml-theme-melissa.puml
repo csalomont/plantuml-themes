@@ -28,7 +28,7 @@ skinparam useBetaStyle false
 !$TEAL = "#20c997"
 !$CYAN = "#29abe0"
 !$WHITE = "#fff"
-!$GRAY = "#8e8c84"
+!$GRAY = "#e7e7e7"
 !$GRAYDARK = "#3e3f3a"
 !$PRIMARY = "#062C6A"
 !$SECONDARY = "#FFD100"
@@ -89,7 +89,7 @@ skinparam useBetaStyle false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Proxima Nova"
+skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
