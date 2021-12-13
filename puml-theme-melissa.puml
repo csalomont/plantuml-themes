@@ -1,3 +1,5 @@
+
+
 ''
 '' melissa theme based off of the plantuml sandstone theme 
 '' https://github.com/plantuml/plantuml/blob/master/themes/puml-theme-sandstone.puml
@@ -39,6 +41,7 @@ skinparam useBetaStyle false
 !$LIGHT = "#f8f5f0"
 !$DARK = "#3e3f3a"
 
+!$TEXT_GREY = $DARK
 !$TEXT_GREY = "#727376"
 !$LINE_GREY = "#A9ABAE"
 
@@ -94,6 +97,7 @@ skinparam useBetaStyle false
 ''
 skinparam defaultFontName       "Proxima Nova"
 skinparam defaultFontSize       12
+skinparam defaultFontStyle      bold
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           8
@@ -446,3 +450,6 @@ skinparam stack {
     $primary_scheme()
 }
 !endsub
+
+
+
