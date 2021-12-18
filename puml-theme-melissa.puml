@@ -96,15 +96,15 @@ skinparam useBetaStyle false
 '' Global Default Values
 ''
 skinparam defaultFontName       "Proxima Nova"
-skinparam defaultFontSize       12
+skinparam defaultFontSize       14
 skinparam defaultFontStyle      bold
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           8
+skinparam roundcorner           10
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
 skinparam Padding               5
-skinparam ArrowColor            $DARK
+skinparam ArrowColor            "#AAD15A"
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
     CBorderColor $SECONDARY_DARK
@@ -159,7 +159,7 @@ skinparam activity {
 
 skinparam participant {
     $primary_scheme()
-    ParticipantBorderThickness 2
+    ParticipantBorderThickness 4
 }
 !endsub
 
@@ -174,7 +174,7 @@ skinparam actor {
 
 skinparam arrow {
     Thickness 3
-    Color $PRIMARY_DARK
+    Color "#AAD15A"
     FontColor $FGCOLOR
 }
 !endsub
